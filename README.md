@@ -29,8 +29,5 @@ This project is a calculator application implemented in C++ using WinForms. It p
 
 Please note that this project uses WinForms for the user interface and the "CalcAlgorythm" library for expression calculation.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 This project was created as a learning exercise and may not be suitable for production use.
